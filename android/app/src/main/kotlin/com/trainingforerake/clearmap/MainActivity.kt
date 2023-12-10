@@ -1,0 +1,6 @@
+package com.trainingforerake.clearmap
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
